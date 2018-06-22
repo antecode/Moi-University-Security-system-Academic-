@@ -1,11 +1,7 @@
-# Progressive-web-app-code-files
-#PWA code files
-#by antony muathime
-#IoT and security expert
+#By Muathime
+#I.o.T and system security Expert
+#PWA 
 
-Progressive web app example code files
-1. manifest.json
-2. sw.js (service worker)
-3. master.js (js file to register service worker)
-4. index.html (sample html file)
-5. sample icons
+run the index.html 
+go offline and it will still work.
+

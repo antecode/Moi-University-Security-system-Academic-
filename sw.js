@@ -10,8 +10,19 @@ self.addEventListener('install',function(event){
 		//adding all as array
 			cache.addAll([
 				'./',
+				'./js/bootstrap.js',
+				'./css/bootstrap.min.css',
+				'./css/bootstrap.css',
+				'./css/styles.css',
+				'./manifest.json',
+				'./jquery.js',
 				'./index.html',
-				'./icon2.png'
+				'./icon1.png',
+				'./icon2.png',
+				'./icon3.png',
+				'./jQuery.js',
+				'./master.js'
+
 			]);
 		}))
 });

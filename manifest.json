@@ -1,10 +1,10 @@
 {
-	"name": "MUSS PWA",
-	"short_name": "MUSS",
-	"start_url": "./index.html",
+	"name": "Smarfa on web",
+	"short_name": "Smarfa",
+	"start_url": "index.html",
 	"display" : "standalone",
 	"orientation": "portrait",
-	"background_color": "#12ee44",
+	"background_color": "#ffffff",
 	"theme_color": "#cccccc",
 	"icons" : [
 			{
@@ -18,5 +18,5 @@
 			{
 				"src": "icon2.png", "sizes": "512x512", "type": "image/png"
 			}
-			  ] 
+			  ]  
 }
